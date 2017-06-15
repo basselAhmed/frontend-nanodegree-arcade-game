@@ -7,6 +7,6 @@ Just download this repo and open `index.html` in your browser.
 
 ## HOW TO PLAY
 - Move around with your keyboard keys `up`, `down`, `left`, `right`.
-- avoid the enemies **DON'T LET THEM TOUCH YOU**.
+- Avoid the enemies **DON'T LET THEM TOUCH YOU**.
 - Reach the water on the other side to win a point.
-- **WARNING** if touched by the _enemy_, you'll lose a point, if you have any.
+- **WARNING** If touched by the _enemy_, you'll lose a point, if you have any.
