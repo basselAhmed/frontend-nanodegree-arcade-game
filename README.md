@@ -5,7 +5,7 @@ For the very first time **EVER** You can enjoy this epic time-killer game in a c
 ## INSTALLATION
 Just download this repo and open `index.html` in your browser.
 
-# HOW TO PLAY
+## HOW TO PLAY
 - Move around with your keyboard keys `up`, `down`, `left`, `right`.
 - avoid the enemies **DON'T LET THEM TOUCH YOU**
 - Reach the water on the other side to win a point
