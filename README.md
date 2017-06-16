@@ -10,3 +10,9 @@ Just download this repo and open `index.html` in your browser.
 - Avoid the enemies **DON'T LET THEM TOUCH YOU**.
 - Reach the water on the other side to win a point.
 - **WARNING** If touched by the _enemy_, you'll lose a point, if you have any.
+
+## BUGS
+You tell me, please open an issue here and I'll get to it ASAP
+
+## LICENSE
+This source code is distributed under [MIT License](https://opensource.org/licenses/MIT)
